@@ -1,0 +1,64 @@
+body{
+    overflow:visible
+}
+
+#myVideo {
+    /* position: fixed; */
+    right: 0;
+    bottom: 0;
+   width: 2000px;
+  }
+nav{
+    position: absolute; 
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}  
+#nav{
+    top: 40px;
+}
+#logo{
+    margin-right:  750px;
+}
+.nav-links{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    margin-right: 100px;
+    color:white;
+    text-decoration: none;
+}
+.h1{
+    position: absolute;
+    bottom: 400px;
+    font-size: 150px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hr{
+    padding-top: 5px;
+    width:1000px;
+    background-color: white;
+    border: none;
+    opacity: 50%;
+}
+#mySecVideo{
+    width: 700px;
+}
+.aboutus{
+    position: absolute; 
+    bottom: 0px;
+    right: 500px;
+    top: 1150px;
+    color: rgb(87, 5, 218)
+}
+.aboutusp{
+    position: absolute; 
+    color: #000000;
+    bottom: 0px;
+    left: 800px;
+    top: 1200px;
+    font-size: 30px;
+}
